@@ -1,4 +1,4 @@
-# minsik-s-handgame
+# Hand-game
 # Hand Game 
 
 OpenCV와 MediaPipe를 이용한 실시간 손 인식 프로그램입니다.  
