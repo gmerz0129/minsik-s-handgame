@@ -1,5 +1,5 @@
 # Hand-game
-# Hand Game 
+##coded by minsik
 
 OpenCV와 MediaPipe를 이용한 실시간 손 인식 프로그램입니다.  
 웹캠으로 양손을 인식하고, 손이 펴져 있으면 손 위에 한글 텍스트를 표시합니다.
